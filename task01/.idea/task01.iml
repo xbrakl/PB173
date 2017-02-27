@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_aes.cbc.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_aes.cbc.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_aes.cfb.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_aes.cfb.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_aes.ecb.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_aes.ecb.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_aes.rest.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_aes.rest.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_arc4.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_arc4.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_asn1write.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_asn1write.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_base64.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_base64.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_blowfish.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_blowfish.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_camellia.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_camellia.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ccm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ccm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.aes.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.aes.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.arc4.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.arc4.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.blowfish.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.blowfish.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.camellia.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.camellia.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.ccm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.ccm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.des.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.des.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.gcm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.gcm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.null.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.null.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.padding.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cipher.padding.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cmac.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_cmac.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ctr_drbg.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ctr_drbg.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_debug.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_debug.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_des.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_des.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_dhm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_dhm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ecdh.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ecdh.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ecdsa.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ecdsa.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ecjpake.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ecjpake.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ecp.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ecp.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_entropy.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_entropy.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_error.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_error.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.aes128_de.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.aes128_de.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.aes128_en.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.aes128_en.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.aes192_de.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.aes192_de.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.aes192_en.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.aes192_en.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.aes256_de.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.aes256_de.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.aes256_en.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.aes256_en.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.camellia.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_gcm.camellia.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_hmac_drbg.misc.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_hmac_drbg.misc.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_hmac_drbg.no_reseed.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_hmac_drbg.no_reseed.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_hmac_drbg.nopr.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_hmac_drbg.nopr.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_hmac_drbg.pr.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_hmac_drbg.pr.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_md.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_md.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_mdx.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_mdx.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_memory_buffer_alloc.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_memory_buffer_alloc.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_mpi.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_mpi.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pem.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pem.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pk.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pk.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pkcs1_v15.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pkcs1_v15.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pkcs1_v21.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pkcs1_v21.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pkcs5.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pkcs5.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pkparse.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pkparse.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pkwrite.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_pkwrite.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_rsa.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_rsa.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_shax.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_shax.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ssl.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_ssl.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_timing.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_timing.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_version.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_version.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_x509parse.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_x509parse.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_x509write.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_x509write.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_xtea.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Debug/mbedtls/tests/test_suite_xtea.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_aes.cbc.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_aes.cbc.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_aes.cfb.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_aes.cfb.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_aes.ecb.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_aes.ecb.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_aes.rest.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_aes.rest.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_arc4.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_arc4.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_asn1write.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_asn1write.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_base64.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_base64.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_blowfish.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_blowfish.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_camellia.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_camellia.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ccm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ccm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.aes.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.aes.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.arc4.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.arc4.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.blowfish.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.blowfish.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.camellia.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.camellia.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.ccm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.ccm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.des.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.des.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.gcm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.gcm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.null.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.null.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.padding.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cipher.padding.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cmac.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_cmac.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ctr_drbg.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ctr_drbg.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_debug.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_debug.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_des.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_des.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_dhm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_dhm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ecdh.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ecdh.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ecdsa.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ecdsa.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ecjpake.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ecjpake.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ecp.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ecp.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_entropy.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_entropy.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_error.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_error.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.aes128_de.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.aes128_de.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.aes128_en.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.aes128_en.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.aes192_de.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.aes192_de.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.aes192_en.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.aes192_en.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.aes256_de.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.aes256_de.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.aes256_en.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.aes256_en.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.camellia.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_gcm.camellia.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_hmac_drbg.misc.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_hmac_drbg.misc.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_hmac_drbg.no_reseed.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_hmac_drbg.no_reseed.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_hmac_drbg.nopr.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_hmac_drbg.nopr.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_hmac_drbg.pr.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_hmac_drbg.pr.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_md.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_md.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_mdx.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_mdx.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_memory_buffer_alloc.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_memory_buffer_alloc.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_mpi.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_mpi.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pem.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pem.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pk.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pk.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pkcs1_v15.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pkcs1_v15.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pkcs1_v21.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pkcs1_v21.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pkcs5.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pkcs5.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pkparse.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pkparse.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pkwrite.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_pkwrite.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_rsa.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_rsa.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_shax.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_shax.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ssl.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_ssl.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_timing.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_timing.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_version.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_version.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_x509parse.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_x509parse.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_x509write.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_x509write.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_xtea.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/MinSizeRel/mbedtls/tests/test_suite_xtea.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_aes.cbc.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_aes.cbc.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_aes.cfb.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_aes.cfb.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_aes.ecb.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_aes.ecb.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_aes.rest.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_aes.rest.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_arc4.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_arc4.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_asn1write.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_asn1write.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_base64.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_base64.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_blowfish.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_blowfish.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_camellia.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_camellia.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ccm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ccm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.aes.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.aes.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.arc4.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.arc4.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.blowfish.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.blowfish.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.camellia.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.camellia.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.ccm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.ccm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.des.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.des.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.gcm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.gcm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.null.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.null.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.padding.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cipher.padding.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cmac.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_cmac.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ctr_drbg.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ctr_drbg.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_debug.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_debug.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_des.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_des.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_dhm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_dhm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ecdh.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ecdh.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ecdsa.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ecdsa.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ecjpake.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ecjpake.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ecp.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ecp.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_entropy.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_entropy.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_error.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_error.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.aes128_de.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.aes128_de.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.aes128_en.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.aes128_en.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.aes192_de.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.aes192_de.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.aes192_en.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.aes192_en.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.aes256_de.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.aes256_de.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.aes256_en.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.aes256_en.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.camellia.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_gcm.camellia.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_hmac_drbg.misc.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_hmac_drbg.misc.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_hmac_drbg.no_reseed.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_hmac_drbg.no_reseed.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_hmac_drbg.nopr.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_hmac_drbg.nopr.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_hmac_drbg.pr.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_hmac_drbg.pr.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_md.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_md.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_mdx.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_mdx.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_memory_buffer_alloc.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_memory_buffer_alloc.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_mpi.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_mpi.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pem.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pem.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pk.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pk.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pkcs1_v15.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pkcs1_v15.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pkcs1_v21.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pkcs1_v21.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pkcs5.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pkcs5.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pkparse.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pkparse.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pkwrite.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_pkwrite.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_rsa.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_rsa.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_shax.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_shax.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ssl.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_ssl.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_timing.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_timing.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_version.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_version.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_x509parse.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_x509parse.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_x509write.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_x509write.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_xtea.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/RelWithDebInfo/mbedtls/tests/test_suite_xtea.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_aes.cbc.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_aes.cbc.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_aes.cfb.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_aes.cfb.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_aes.ecb.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_aes.ecb.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_aes.rest.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_aes.rest.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_arc4.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_arc4.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_asn1write.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_asn1write.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_base64.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_base64.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_blowfish.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_blowfish.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_camellia.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_camellia.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ccm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ccm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.aes.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.aes.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.arc4.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.arc4.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.blowfish.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.blowfish.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.camellia.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.camellia.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.ccm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.ccm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.des.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.des.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.gcm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.gcm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.null.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.null.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.padding.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cipher.padding.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cmac.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_cmac.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ctr_drbg.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ctr_drbg.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_debug.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_debug.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_des.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_des.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_dhm.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_dhm.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ecdh.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ecdh.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ecdsa.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ecdsa.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ecjpake.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ecjpake.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ecp.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ecp.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_entropy.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_entropy.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_error.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_error.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.aes128_de.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.aes128_de.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.aes128_en.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.aes128_en.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.aes192_de.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.aes192_de.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.aes192_en.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.aes192_en.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.aes256_de.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.aes256_de.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.aes256_en.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.aes256_en.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.camellia.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_gcm.camellia.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_hmac_drbg.misc.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_hmac_drbg.misc.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_hmac_drbg.no_reseed.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_hmac_drbg.no_reseed.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_hmac_drbg.nopr.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_hmac_drbg.nopr.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_hmac_drbg.pr.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_hmac_drbg.pr.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_md.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_md.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_mdx.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_mdx.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_memory_buffer_alloc.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_memory_buffer_alloc.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_mpi.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_mpi.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pem.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pem.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pk.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pk.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pkcs1_v15.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pkcs1_v15.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pkcs1_v21.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pkcs1_v21.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pkcs5.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pkcs5.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pkparse.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pkparse.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pkwrite.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_pkwrite.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_rsa.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_rsa.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_shax.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_shax.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ssl.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_ssl.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_timing.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_timing.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_version.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_version.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_x509parse.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_x509parse.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_x509write.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_x509write.c" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_xtea.c">
+      <sourceFolder url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/task01-482df453/482df453/Release/mbedtls/tests/test_suite_xtea.c" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/include/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/tests/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/ssl/ssl_server.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/ssl/dtls_client.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/ssl/ssl_pthread_server.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/ssl/ssl_client2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/ssl/ssl_server2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/ssl/ssl_client1.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/ssl/dtls_server.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/ssl/ssl_fork_server.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/ssl/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/ssl/ssl_mail_client.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/ssl/mini_client.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/test/selftest.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/test/benchmark.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/test/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/test/udp_proxy.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/test/ssl_cert_test.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/util/strerror.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/util/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/util/pem2der.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/x509/req_app.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/x509/crl_app.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/x509/cert_write.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/x509/cert_app.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/x509/cert_req.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/x509/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/aes/aescrypt2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/aes/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/aes/crypt_and_hash.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/random/gen_entropy.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/random/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/random/gen_random_ctr_drbg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/random/gen_random_havege.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/key_app.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/rsa_encrypt.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/rsa_decrypt.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/pk_decrypt.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/ecdh_curve25519.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/dh_server.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/ecdsa.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/gen_key.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/key_app_writer.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/dh_client.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/pk_verify.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/rsa_genkey.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/pk_encrypt.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/pk_sign.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/mpi_demo.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/rsa_sign.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/dh_genprime.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/rsa_verify_pss.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/rsa_sign_pss.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/pkey/rsa_verify.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/hash/generic_sum.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/hash/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/programs/hash/hello.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/pkcs12.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/x509_crl.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ecjpake.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/pkcs11.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/pkwrite.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/camellia.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/asn1write.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/md4.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/certs.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ssl_tls.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/blowfish.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/x509_create.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/aes.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/md_wrap.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/md5.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ssl_cli.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/gcm.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ssl_cookie.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ssl_srv.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/cmac.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ecdh.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/version.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/aesni.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ecp.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/memory_buffer_alloc.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ecdsa.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ctr_drbg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/pkparse.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/base64.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/asn1parse.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/bignum.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/pkcs5.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/cipher.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/rsa.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/hmac_drbg.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ripemd160.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/md.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/xtea.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/threading.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/sha1.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/x509.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/havege.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/pk.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/pk_wrap.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/sha256.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/entropy.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/debug.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ssl_cache.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ssl_ciphersuites.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/entropy_poll.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/net_sockets.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ccm.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/timing.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/oid.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/padlock.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/x509write_crt.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/cipher_wrap.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/x509write_csr.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/x509_crt.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/des.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/x509_csr.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/arc4.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ssl_ticket.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/md2.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/error.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/sha512.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/platform.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/dhm.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/ecp_curves.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/pem.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mbedtls/library/version_features.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/5.4.0/include" />
+          <root url="file://C:/cygwin64/usr/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/5.4.0/include" />
+          <root url="file://C:/cygwin64/usr/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="task01" targetName="test_suite_cmac" />
+      <config projectName="task01" targetName="rsa_encrypt" />
+      <config projectName="task01" targetName="test_suite_mdx" />
+      <config projectName="task01" targetName="mini_client" />
+      <config projectName="task01" targetName="hello" />
+      <config projectName="task01" targetName="gen_random_ctr_drbg" />
+      <config projectName="task01" targetName="covtest" />
+      <config projectName="task01" targetName="test_suite_cipher.aes" />
+      <config projectName="task01" targetName="test_suite_cipher.arc4" />
+      <config projectName="task01" targetName="apidoc" />
+      <config projectName="task01" targetName="cert_req" />
+      <config projectName="task01" targetName="task01" />
+      <config projectName="task01" targetName="test_suite_hmac_drbg.misc" />
+      <config projectName="task01" targetName="selftest" />
+      <config projectName="task01" targetName="mbedcrypto" />
+      <config projectName="task01" targetName="test_suite_entropy" />
+      <config projectName="task01" targetName="test_suite_memory_buffer_alloc" />
+      <config projectName="task01" targetName="ssl_cert_test" />
+      <config projectName="task01" targetName="crl_app" />
+      <config projectName="task01" targetName="test_suite_gcm.aes256_en" />
+      <config projectName="task01" targetName="test_suite_shax" />
+      <config projectName="task01" targetName="udp_proxy" />
+      <config projectName="task01" targetName="cert_write" />
+      <config projectName="task01" targetName="test_suite_timing" />
+      <config projectName="task01" targetName="test_suite_aes.ecb" />
+      <config projectName="task01" targetName="benchmark" />
+      <config projectName="task01" targetName="test_suite_x509write" />
+      <config projectName="task01" targetName="pk_encrypt" />
+      <config projectName="task01" targetName="pk_verify" />
+      <config projectName="task01" targetName="ssl_pthread_server" />
+      <config projectName="task01" targetName="test_suite_cipher.ccm" />
+      <config projectName="task01" targetName="test_suite_gcm.aes256_de" />
+      <config projectName="task01" targetName="test_suite_ssl" />
+      <config projectName="task01" targetName="test_suite_ccm" />
+      <config projectName="task01" targetName="test_suite_cipher.des" />
+      <config projectName="task01" targetName="test_suite_cipher.null" />
+      <config projectName="task01" targetName="test_suite_camellia" />
+      <config projectName="task01" targetName="test_suite_cipher.gcm" />
+      <config projectName="task01" targetName="test_suite_gcm.aes128_de" />
+      <config projectName="task01" targetName="pk_decrypt" />
+      <config projectName="task01" targetName="mpi_demo" />
+      <config projectName="task01" targetName="test_suite_cipher.blowfish" />
+      <config projectName="task01" targetName="test_suite_des" />
+      <config projectName="task01" targetName="test_suite_error" />
+      <config projectName="task01" targetName="test_suite_pem" />
+      <config projectName="task01" targetName="ssl_server2" />
+      <config projectName="task01" targetName="mbedtls" />
+      <config projectName="task01" targetName="cert_app" />
+      <config projectName="task01" targetName="rsa_verify" />
+      <config projectName="task01" targetName="test_suite_debug" />
+      <config projectName="task01" targetName="test_suite_arc4" />
+      <config projectName="task01" targetName="test_suite_aes.cfb" />
+      <config projectName="task01" targetName="test_suite_base64" />
+      <config projectName="task01" targetName="test_suite_mpi" />
+      <config projectName="task01" targetName="test_suite_hmac_drbg.nopr" />
+      <config projectName="task01" targetName="rsa_genkey" />
+      <config projectName="task01" targetName="test_suite_ctr_drbg" />
+      <config projectName="task01" targetName="aescrypt2" />
+      <config projectName="task01" targetName="test_suite_pk" />
+      <config projectName="task01" targetName="key_app_writer" />
+      <config projectName="task01" targetName="key_app" />
+      <config projectName="task01" targetName="gen_random_havege" />
+      <config projectName="task01" targetName="memcheck" />
+      <config projectName="task01" targetName="dh_genprime" />
+      <config projectName="task01" targetName="dh_client" />
+      <config projectName="task01" targetName="test_suite_version" />
+      <config projectName="task01" targetName="rsa_verify_pss" />
+      <config projectName="task01" targetName="test_suite_gcm.aes128_en" />
+      <config projectName="task01" targetName="test_suite_xtea" />
+      <config projectName="task01" targetName="test_suite_gcm.camellia" />
+      <config projectName="task01" targetName="test_suite_cipher.padding" />
+      <config projectName="task01" targetName="test_suite_rsa" />
+      <config projectName="task01" targetName="test_suite_asn1write" />
+      <config projectName="task01" targetName="mbedx509" />
+      <config projectName="task01" targetName="lcov" />
+      <config projectName="task01" targetName="test_suite_hmac_drbg.no_reseed" />
+      <config projectName="task01" targetName="gen_entropy" />
+      <config projectName="task01" targetName="test_suite_pkwrite" />
+      <config projectName="task01" targetName="test_suite_hmac_drbg.pr" />
+      <config projectName="task01" targetName="ecdh_curve25519" />
+      <config projectName="task01" targetName="dtls_server" />
+      <config projectName="task01" targetName="ssl_mail_client" />
+      <config projectName="task01" targetName="test_suite_ecdsa" />
+      <config projectName="task01" targetName="test_suite_pkcs5" />
+      <config projectName="task01" targetName="test_suite_x509parse" />
+      <config projectName="task01" targetName="test_suite_md" />
+      <config projectName="task01" targetName="lib" />
+      <config projectName="task01" targetName="rsa_decrypt" />
+      <config projectName="task01" targetName="test_suite_dhm" />
+      <config projectName="task01" targetName="generic_sum" />
+      <config projectName="task01" targetName="test_suite_aes.rest" />
+      <config projectName="task01" targetName="pem2der" />
+      <config projectName="task01" targetName="test_suite_gcm.aes192_en" />
+      <config projectName="task01" targetName="test_suite_pkparse" />
+      <config projectName="task01" targetName="test_suite_pkcs1_v21" />
+      <config projectName="task01" targetName="ecdsa" />
+      <config projectName="task01" targetName="strerror" />
+      <config projectName="task01" targetName="req_app" />
+      <config projectName="task01" targetName="test_suite_ecp" />
+      <config projectName="task01" targetName="ssl_server" />
+      <config projectName="task01" targetName="ssl_client2" />
+      <config projectName="task01" targetName="dh_server" />
+      <config projectName="task01" targetName="rsa_sign" />
+      <config projectName="task01" targetName="crypt_and_hash" />
+      <config projectName="task01" targetName="ssl_client1" />
+      <config projectName="task01" targetName="test_suite_ecjpake" />
+      <config projectName="task01" targetName="ssl_fork_server" />
+      <config projectName="task01" targetName="test_suite_aes.cbc" />
+      <config projectName="task01" targetName="pk_sign" />
+      <config projectName="task01" targetName="rsa_sign_pss" />
+      <config projectName="task01" targetName="test_suite_blowfish" />
+      <config projectName="task01" targetName="dtls_client" />
+      <config projectName="task01" targetName="test_suite_ecdh" />
+      <config projectName="task01" targetName="test_suite_pkcs1_v15" />
+      <config projectName="task01" targetName="test_suite_cipher.camellia" />
+      <config projectName="task01" targetName="test_suite_gcm.aes192_de" />
+      <config projectName="task01" targetName="gen_key" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+    <ADDITIONAL_GENERATION_ENVIRONMENT>
+      <envs />
+    </ADDITIONAL_GENERATION_ENVIRONMENT>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0a7dd61-2b5a-49a9-917f-d93b52611b85" name="Default" comment="" />
+    <ignored path="task01.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="task01" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task01" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task01" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Build All">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="task01" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="task01" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="task01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="task01">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="apidoc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="apidoc" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="covtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="covtest" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lcov" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="lcov" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="memcheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="memcheck" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="lib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="lib" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="mbedcrypto" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="mbedcrypto" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="mbedtls" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="mbedtls" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="mbedx509" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="mbedx509" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="aescrypt2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="aescrypt2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="aescrypt2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="crypt_and_hash" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="crypt_and_hash" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="crypt_and_hash">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="generic_sum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="generic_sum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="generic_sum">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="hello" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="hello" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="hello">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="dh_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="dh_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="dh_client">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="dh_genprime" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="dh_genprime" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="dh_genprime">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="dh_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="dh_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="dh_server">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ecdh_curve25519" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="ecdh_curve25519" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="ecdh_curve25519">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ecdsa" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="ecdsa" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="ecdsa">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gen_key" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="gen_key" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="gen_key">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="key_app" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="key_app" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="key_app">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="key_app_writer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="key_app_writer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="key_app_writer">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="mpi_demo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="mpi_demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="mpi_demo">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pk_decrypt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="pk_decrypt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="pk_decrypt">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pk_encrypt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="pk_encrypt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="pk_encrypt">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pk_sign" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="pk_sign" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="pk_sign">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pk_verify" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="pk_verify" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="pk_verify">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="rsa_decrypt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="rsa_decrypt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="rsa_decrypt">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="rsa_encrypt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="rsa_encrypt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="rsa_encrypt">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="rsa_genkey" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="rsa_genkey" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="rsa_genkey">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="rsa_sign" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="rsa_sign" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="rsa_sign">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="rsa_sign_pss" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="rsa_sign_pss" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="rsa_sign_pss">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="rsa_verify" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="rsa_verify" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="rsa_verify">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="rsa_verify_pss" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="rsa_verify_pss" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="rsa_verify_pss">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gen_entropy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="gen_entropy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="gen_entropy">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gen_random_ctr_drbg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="gen_random_ctr_drbg" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="gen_random_ctr_drbg">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="gen_random_havege" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="gen_random_havege" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="gen_random_havege">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="dtls_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="dtls_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="dtls_client">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="dtls_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="dtls_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="dtls_server">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="mini_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="mini_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="mini_client">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ssl_client1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="ssl_client1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="ssl_client1">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ssl_client2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="ssl_client2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="ssl_client2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ssl_fork_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="ssl_fork_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="ssl_fork_server">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ssl_mail_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="ssl_mail_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="ssl_mail_client">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ssl_pthread_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="ssl_pthread_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="ssl_pthread_server">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ssl_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="ssl_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="ssl_server">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ssl_server2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="ssl_server2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="ssl_server2">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="benchmark" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="benchmark" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="benchmark">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="selftest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="selftest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="selftest">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ssl_cert_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="ssl_cert_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="ssl_cert_test">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="udp_proxy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="udp_proxy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="udp_proxy">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="pem2der" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="pem2der" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="pem2der">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="strerror" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="strerror" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="strerror">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cert_app" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="cert_app" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="cert_app">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cert_req" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="cert_req" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="cert_req">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cert_write" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="cert_write" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="cert_write">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="crl_app" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="crl_app" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="crl_app">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="req_app" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="req_app" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="req_app">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_aes.cbc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_aes.cbc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_aes.cbc">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_aes.cfb" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_aes.cfb" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_aes.cfb">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_aes.ecb" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_aes.ecb" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_aes.ecb">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_aes.rest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_aes.rest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_aes.rest">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_arc4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_arc4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_arc4">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_asn1write" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_asn1write" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_asn1write">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_base64" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_base64" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_base64">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_blowfish" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_blowfish" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_blowfish">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_camellia" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_camellia" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_camellia">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_ccm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_ccm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_ccm">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_cipher.aes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_cipher.aes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_cipher.aes">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_cipher.arc4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_cipher.arc4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_cipher.arc4">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_cipher.blowfish" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_cipher.blowfish" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_cipher.blowfish">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_cipher.camellia" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_cipher.camellia" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_cipher.camellia">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_cipher.ccm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_cipher.ccm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_cipher.ccm">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_cipher.des" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_cipher.des" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_cipher.des">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_cipher.gcm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_cipher.gcm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_cipher.gcm">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_cipher.null" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_cipher.null" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_cipher.null">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_cipher.padding" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_cipher.padding" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_cipher.padding">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_cmac" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_cmac" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_cmac">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_ctr_drbg" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_ctr_drbg" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_ctr_drbg">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_debug" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_debug" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_des" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_des" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_des">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_dhm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_dhm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_dhm">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_ecdh" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_ecdh" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_ecdh">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_ecdsa" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_ecdsa" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_ecdsa">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_ecjpake" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_ecjpake" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_ecjpake">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_ecp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_ecp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_ecp">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_entropy" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_entropy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_entropy">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_error" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_error" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_error">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_gcm.aes128_de" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_gcm.aes128_de" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_gcm.aes128_de">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_gcm.aes128_en" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_gcm.aes128_en" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_gcm.aes128_en">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_gcm.aes192_de" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_gcm.aes192_de" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_gcm.aes192_de">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_gcm.aes192_en" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_gcm.aes192_en" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_gcm.aes192_en">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_gcm.aes256_de" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_gcm.aes256_de" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_gcm.aes256_de">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_gcm.aes256_en" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_gcm.aes256_en" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_gcm.aes256_en">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_gcm.camellia" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_gcm.camellia" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_gcm.camellia">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_hmac_drbg.misc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_hmac_drbg.misc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_hmac_drbg.misc">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_hmac_drbg.no_reseed" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_hmac_drbg.no_reseed" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_hmac_drbg.no_reseed">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_hmac_drbg.nopr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_hmac_drbg.nopr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_hmac_drbg.nopr">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_hmac_drbg.pr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_hmac_drbg.pr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_hmac_drbg.pr">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_md" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_md" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_md">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_mdx" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_mdx" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_mdx">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_memory_buffer_alloc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_memory_buffer_alloc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_memory_buffer_alloc">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_mpi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_mpi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_mpi">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_pem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_pem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_pem">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_pk" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_pk" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_pk">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_pkcs1_v15" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_pkcs1_v15" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_pkcs1_v15">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_pkcs1_v21" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_pkcs1_v21" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_pkcs1_v21">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_pkcs5" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_pkcs5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_pkcs5">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_pkparse" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_pkparse" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_pkparse">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_pkwrite" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_pkwrite" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_pkwrite">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_rsa" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_rsa" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_rsa">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_shax" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_shax" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_shax">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_ssl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_ssl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_ssl">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_timing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_timing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_timing">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_version" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_version" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_version">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_x509parse" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_x509parse" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_x509parse">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_x509write" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_x509write" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_x509write">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_suite_xtea" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="test_suite_xtea" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="test_suite_xtea">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="task01" TARGET_NAME="task01" CONFIG_NAME="Release" RUN_TARGET_PROJECT_NAME="task01" RUN_TARGET_NAME="task01">
+      <envs />
+      <method />
+    </configuration>
+    <list size="118">
+      <item index="0" class="java.lang.String" itemvalue="Application.task01" />
+      <item index="1" class="java.lang.String" itemvalue="Application.apidoc" />
+      <item index="2" class="java.lang.String" itemvalue="Application.covtest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.lcov" />
+      <item index="4" class="java.lang.String" itemvalue="Application.memcheck" />
+      <item index="5" class="java.lang.String" itemvalue="Application.lib" />
+      <item index="6" class="java.lang.String" itemvalue="Application.mbedcrypto" />
+      <item index="7" class="java.lang.String" itemvalue="Application.mbedtls" />
+      <item index="8" class="java.lang.String" itemvalue="Application.mbedx509" />
+      <item index="9" class="java.lang.String" itemvalue="Application.aescrypt2" />
+      <item index="10" class="java.lang.String" itemvalue="Application.crypt_and_hash" />
+      <item index="11" class="java.lang.String" itemvalue="Application.generic_sum" />
+      <item index="12" class="java.lang.String" itemvalue="Application.hello" />
+      <item index="13" class="java.lang.String" itemvalue="Application.dh_client" />
+      <item index="14" class="java.lang.String" itemvalue="Application.dh_genprime" />
+      <item index="15" class="java.lang.String" itemvalue="Application.dh_server" />
+      <item index="16" class="java.lang.String" itemvalue="Application.ecdh_curve25519" />
+      <item index="17" class="java.lang.String" itemvalue="Application.ecdsa" />
+      <item index="18" class="java.lang.String" itemvalue="Application.gen_key" />
+      <item index="19" class="java.lang.String" itemvalue="Application.key_app" />
+      <item index="20" class="java.lang.String" itemvalue="Application.key_app_writer" />
+      <item index="21" class="java.lang.String" itemvalue="Application.mpi_demo" />
+      <item index="22" class="java.lang.String" itemvalue="Application.pk_decrypt" />
+      <item index="23" class="java.lang.String" itemvalue="Application.pk_encrypt" />
+      <item index="24" class="java.lang.String" itemvalue="Application.pk_sign" />
+      <item index="25" class="java.lang.String" itemvalue="Application.pk_verify" />
+      <item index="26" class="java.lang.String" itemvalue="Application.rsa_decrypt" />
+      <item index="27" class="java.lang.String" itemvalue="Application.rsa_encrypt" />
+      <item index="28" class="java.lang.String" itemvalue="Application.rsa_genkey" />
+      <item index="29" class="java.lang.String" itemvalue="Application.rsa_sign" />
+      <item index="30" class="java.lang.String" itemvalue="Application.rsa_sign_pss" />
+      <item index="31" class="java.lang.String" itemvalue="Application.rsa_verify" />
+      <item index="32" class="java.lang.String" itemvalue="Application.rsa_verify_pss" />
+      <item index="33" class="java.lang.String" itemvalue="Application.gen_entropy" />
+      <item index="34" class="java.lang.String" itemvalue="Application.gen_random_ctr_drbg" />
+      <item index="35" class="java.lang.String" itemvalue="Application.gen_random_havege" />
+      <item index="36" class="java.lang.String" itemvalue="Application.dtls_client" />
+      <item index="37" class="java.lang.String" itemvalue="Application.dtls_server" />
+      <item index="38" class="java.lang.String" itemvalue="Application.mini_client" />
+      <item index="39" class="java.lang.String" itemvalue="Application.ssl_client1" />
+      <item index="40" class="java.lang.String" itemvalue="Application.ssl_client2" />
+      <item index="41" class="java.lang.String" itemvalue="Application.ssl_fork_server" />
+      <item index="42" class="java.lang.String" itemvalue="Application.ssl_mail_client" />
+      <item index="43" class="java.lang.String" itemvalue="Application.ssl_pthread_server" />
+      <item index="44" class="java.lang.String" itemvalue="Application.ssl_server" />
+      <item index="45" class="java.lang.String" itemvalue="Application.ssl_server2" />
+      <item index="46" class="java.lang.String" itemvalue="Application.benchmark" />
+      <item index="47" class="java.lang.String" itemvalue="Application.selftest" />
+      <item index="48" class="java.lang.String" itemvalue="Application.ssl_cert_test" />
+      <item index="49" class="java.lang.String" itemvalue="Application.udp_proxy" />
+      <item index="50" class="java.lang.String" itemvalue="Application.pem2der" />
+      <item index="51" class="java.lang.String" itemvalue="Application.strerror" />
+      <item index="52" class="java.lang.String" itemvalue="Application.cert_app" />
+      <item index="53" class="java.lang.String" itemvalue="Application.cert_req" />
+      <item index="54" class="java.lang.String" itemvalue="Application.cert_write" />
+      <item index="55" class="java.lang.String" itemvalue="Application.crl_app" />
+      <item index="56" class="java.lang.String" itemvalue="Application.req_app" />
+      <item index="57" class="java.lang.String" itemvalue="Application.test_suite_aes.cbc" />
+      <item index="58" class="java.lang.String" itemvalue="Application.test_suite_aes.cfb" />
+      <item index="59" class="java.lang.String" itemvalue="Application.test_suite_aes.ecb" />
+      <item index="60" class="java.lang.String" itemvalue="Application.test_suite_aes.rest" />
+      <item index="61" class="java.lang.String" itemvalue="Application.test_suite_arc4" />
+      <item index="62" class="java.lang.String" itemvalue="Application.test_suite_asn1write" />
+      <item index="63" class="java.lang.String" itemvalue="Application.test_suite_base64" />
+      <item index="64" class="java.lang.String" itemvalue="Application.test_suite_blowfish" />
+      <item index="65" class="java.lang.String" itemvalue="Application.test_suite_camellia" />
+      <item index="66" class="java.lang.String" itemvalue="Application.test_suite_ccm" />
+      <item index="67" class="java.lang.String" itemvalue="Application.test_suite_cipher.aes" />
+      <item index="68" class="java.lang.String" itemvalue="Application.test_suite_cipher.arc4" />
+      <item index="69" class="java.lang.String" itemvalue="Application.test_suite_cipher.blowfish" />
+      <item index="70" class="java.lang.String" itemvalue="Application.test_suite_cipher.camellia" />
+      <item index="71" class="java.lang.String" itemvalue="Application.test_suite_cipher.ccm" />
+      <item index="72" class="java.lang.String" itemvalue="Application.test_suite_cipher.des" />
+      <item index="73" class="java.lang.String" itemvalue="Application.test_suite_cipher.gcm" />
+      <item index="74" class="java.lang.String" itemvalue="Application.test_suite_cipher.null" />
+      <item index="75" class="java.lang.String" itemvalue="Application.test_suite_cipher.padding" />
+      <item index="76" class="java.lang.String" itemvalue="Application.test_suite_cmac" />
+      <item index="77" class="java.lang.String" itemvalue="Application.test_suite_ctr_drbg" />
+      <item index="78" class="java.lang.String" itemvalue="Application.test_suite_debug" />
+      <item index="79" class="java.lang.String" itemvalue="Application.test_suite_des" />
+      <item index="80" class="java.lang.String" itemvalue="Application.test_suite_dhm" />
+      <item index="81" class="java.lang.String" itemvalue="Application.test_suite_ecdh" />
+      <item index="82" class="java.lang.String" itemvalue="Application.test_suite_ecdsa" />
+      <item index="83" class="java.lang.String" itemvalue="Application.test_suite_ecjpake" />
+      <item index="84" class="java.lang.String" itemvalue="Application.test_suite_ecp" />
+      <item index="85" class="java.lang.String" itemvalue="Application.test_suite_entropy" />
+      <item index="86" class="java.lang.String" itemvalue="Application.test_suite_error" />
+      <item index="87" class="java.lang.String" itemvalue="Application.test_suite_gcm.aes128_de" />
+      <item index="88" class="java.lang.String" itemvalue="Application.test_suite_gcm.aes128_en" />
+      <item index="89" class="java.lang.String" itemvalue="Application.test_suite_gcm.aes192_de" />
+      <item index="90" class="java.lang.String" itemvalue="Application.test_suite_gcm.aes192_en" />
+      <item index="91" class="java.lang.String" itemvalue="Application.test_suite_gcm.aes256_de" />
+      <item index="92" class="java.lang.String" itemvalue="Application.test_suite_gcm.aes256_en" />
+      <item index="93" class="java.lang.String" itemvalue="Application.test_suite_gcm.camellia" />
+      <item index="94" class="java.lang.String" itemvalue="Application.test_suite_hmac_drbg.misc" />
+      <item index="95" class="java.lang.String" itemvalue="Application.test_suite_hmac_drbg.no_reseed" />
+      <item index="96" class="java.lang.String" itemvalue="Application.test_suite_hmac_drbg.nopr" />
+      <item index="97" class="java.lang.String" itemvalue="Application.test_suite_hmac_drbg.pr" />
+      <item index="98" class="java.lang.String" itemvalue="Application.test_suite_md" />
+      <item index="99" class="java.lang.String" itemvalue="Application.test_suite_mdx" />
+      <item index="100" class="java.lang.String" itemvalue="Application.test_suite_memory_buffer_alloc" />
+      <item index="101" class="java.lang.String" itemvalue="Application.test_suite_mpi" />
+      <item index="102" class="java.lang.String" itemvalue="Application.test_suite_pem" />
+      <item index="103" class="java.lang.String" itemvalue="Application.test_suite_pk" />
+      <item index="104" class="java.lang.String" itemvalue="Application.test_suite_pkcs1_v15" />
+      <item index="105" class="java.lang.String" itemvalue="Application.test_suite_pkcs1_v21" />
+      <item index="106" class="java.lang.String" itemvalue="Application.test_suite_pkcs5" />
+      <item index="107" class="java.lang.String" itemvalue="Application.test_suite_pkparse" />
+      <item index="108" class="java.lang.String" itemvalue="Application.test_suite_pkwrite" />
+      <item index="109" class="java.lang.String" itemvalue="Application.test_suite_rsa" />
+      <item index="110" class="java.lang.String" itemvalue="Application.test_suite_shax" />
+      <item index="111" class="java.lang.String" itemvalue="Application.test_suite_ssl" />
+      <item index="112" class="java.lang.String" itemvalue="Application.test_suite_timing" />
+      <item index="113" class="java.lang.String" itemvalue="Application.test_suite_version" />
+      <item index="114" class="java.lang.String" itemvalue="Application.test_suite_x509parse" />
+      <item index="115" class="java.lang.String" itemvalue="Application.test_suite_x509write" />
+      <item index="116" class="java.lang.String" itemvalue="Application.test_suite_xtea" />
+      <item index="117" class="java.lang.String" itemvalue="Application.Build All" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0a7dd61-2b5a-49a9-917f-d93b52611b85" name="Default" comment="" />
+      <created>1488146847984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488146847984</updated>
+      <workItem from="1488146849936" duration="1131000" />
+      <workItem from="1488148013171" duration="1136000" />
+      <workItem from="1488184245590" duration="1524000" />
+      <workItem from="1488186315689" duration="3039000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6830000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17038691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6830065" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33006537" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
