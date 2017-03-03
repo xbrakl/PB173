@@ -31,11 +31,9 @@ void hash(){
 }
 
 int main() {
-
 	std::cout << "Welcome in my super ultra encryption program" << std::endl;
 	std::cout << "Type '1' in case of encryption\n"
 			     "Type '0' in case of decryption" << std::endl;
-
 	unsigned cryptomode;
 	std::cin >> cryptomode;
 
@@ -53,7 +51,6 @@ int main() {
 		outputfile << encrypted_output;
 		outputfile.close();
 		inputfile.close();
-
 	}
 	else { //decryption
 		//TODO
