@@ -11,11 +11,10 @@
 #include "catch.hpp"
 
 TEST_CASE("Factorial testing", "[factorial]") {
-    CHECK(1 == 1);
-    //CHECK(MyMath::factorial(1) == 1);
-    //CHECK(MyMath::factorial(2) == 2);
-    //CHECK(MyMath::factorial(3) == 6);
-    //CHECK(MyMath::factorial(10) == 3628800);
-    //CHECK(MyMath::factorial(-1) == 0);
+    CHECK(MyMath::factorial(1) == 1);
+    CHECK(MyMath::factorial(2) == 2);
+    CHECK(MyMath::factorial(3) == 6);
+    CHECK(MyMath::factorial(10) == 3628800);
+    CHECK(MyMath::factorial(-1) == 0);
     //CHECK(MyMath::factorial(25) == 1551121004333098); // number is artificially cut
 }
