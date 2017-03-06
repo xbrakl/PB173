@@ -1,4 +1,13 @@
-//This project doesn't work yet and is not compileable!
+/* README
+ *
+ * This project doesn't work yet and is not compileable!
+ *
+ * Problems:
+ * 1. errors in mbed-tls code
+ * 1.2. probably misunderstanded padding
+ * 2. hashing, decryption and veryfication is not implemented yet
+ * 3. catch tests are not written
+*/
 
 #include <iostream>
 #include <fstream>
@@ -7,11 +16,14 @@
 
 //encryption/decryption
 #include "lib/aes.h"
-#include "lib/sha512.h"
 
 //AES key generation
 #include "lib/entropy.h"
 #include "lib/ctr_drbg.h"
+
+//hashing with SHA2-512
+#include "lib/sha512.h"
+#include <lib/config.h>
 
 /**
  * @brief encryptFile 	Function encrypt file
@@ -19,6 +31,7 @@
  * @return				0 in case of succes, 1 otherwise
  */
 int encryptFile(const std::string& filename);
+int decryptFile(const std::string& filename);
 
 int encryptFile(const std::string& filename) {
 	//mbed TLS code
@@ -55,10 +68,10 @@ int encryptFile(const std::string& filename) {
 	//end of mbed TLS code
 
 
-	char buffer[128] = {0}; //used from conversion char <-> unsigned char
+	char buffer[128] = {0}; //used for conversion char <-> unsigned char
 
 	//begin of encryption
-	std::ifstream inputfile(filename); //calling RAII constructor - add control of failure of opening file
+	std::ifstream inputfile(filename); //calling RAII constructor - TODO: add control of failure of opening file
 	std::ofstream outputfile("encrypted_" + filename);
 
 	mbedtls_aes_setkey_enc( &aes, key, 256 ); //Initialization of aes context - i dont understand
@@ -68,7 +81,7 @@ int encryptFile(const std::string& filename) {
 		for(int i = 0; i < input_len; i++) //copying from array of chars to array of unsigned chars
 			input[i] = buffer[i];
 		mbedtls_aes_crypt_cbc( &aes, MBEDTLS_AES_ENCRYPT, 24, iv, input, output );
-		for(int i = 0; i < input_len; i++) //copying from array of chars to array of unsigned chars
+		for(int i = 0; i < input_len; i++) //copying from array of unsigned chars to array of chars
 			buffer[i] = output[i];
 		outputfile.write(buffer, output_len);
 	}
@@ -76,13 +89,23 @@ int encryptFile(const std::string& filename) {
 	return 0;
 }
 
-void hash(){
-	//TODO: Question, what should do this function?
+int decryptFile(const std::string& filename) {
+	//TODO
+	return 1;
+}
+
+//modified from source: https://tls.mbed.org/discussions/generic/using-sha256-for-dummies
+//https://tls.mbed.org/sha-512-source-code
+unsigned char* hash(const unsigned char* input){
+	unsigned char output[32];
+	memset(output, 0, sizeof(output));
+	mbedtls_sha512(input, sizeof(input), output, 0);
+	return output;
 }
 
 int handler(){
 	std::cout << "+------------------------------------------------+"
-			     "|  Welcome in my super ultra encryption program  |"
+			     "|       Welcome in my encryption program         |"
 			     "+------------------------------------------------+"
 				 ""
 				 "=================================================="
@@ -93,12 +116,44 @@ int handler(){
 	unsigned cryptomode;
 	std::cin >> cryptomode;
 
-	if(cryptomode) { //encryption
+	if(cryptomode == 1) { //encryption
 		std::cout << "\nType name of file which you want to encrypt\n\n> " << std::endl;
 		std::string filename;
 		std::cin >> filename;
-		return encryptFile(filename);
+		if(encryptFile(filename)) {
+			std::cout << "Encryption failed" << std::endl;
+			return 1;
+		}
+		else{
+			std::cout << "Encryption finished succesfully"
+					     "Check encrypted file and hash file" << std::endl;
+			return 0;
+		}
+
+		//TODO Hash of encrypted file
 	}
+
+	if(cryptomode == 0) { //decryption
+		std::cout << "\nType name of file which you want to decrypt\n\n> " << std::endl;
+		std::string filename;
+		std::cin >> filename;
+
+		//TODO add verification
+
+		if(decryptFile(filename)) {
+			std::cout << "Decryption failed" << std::endl;
+			return 1;
+		}
+		else{
+			std::cout << "Decryption finished succesfully"
+					     "Check decrypted file" << std::endl;
+			return 0;
+		}
+	}
+
+	if(cryptomode != 1 && cryptomode != 0)
+		std::cout << "Parameter '" << cryptomode << "' is not supported" << std::endl;
+
 	return 0;
 }
 
