@@ -7,7 +7,7 @@
 
 //encryption/decryption
 #include "lib/aes.h"
-#include "lib/sha1.h"
+#include "lib/sha512.h"
 
 //AES key generation
 #include "lib/entropy.h"
